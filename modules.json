@@ -2703,5 +2703,15 @@
                 "integrity": "80dffdfe14e8421639697528e58d685d668dd88ea3c5fb8eff8fb2df500ea738"
             }
         }
+    },
+    "forgeapp-auth": {
+        "latest": "0.1.5",
+        "versions": {
+            "0.1.5": {
+                "description": "Version 0.1.5 of forgeapp-auth",
+                "url": "forgeapp-auth/0.1.5",
+                "integrity": "8f0dd5b740964ec9b973f3663ad046bed8ba0bac8a0efe90036489a45f79e5a9"
+            }
+        }
     }
 }
