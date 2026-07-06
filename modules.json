@@ -1010,7 +1010,7 @@
         }
     },
     "forge-testing": {
-        "latest": "0.4.6",
+        "latest": "0.4.7",
         "versions": {
             "0.1.0": {
                 "description": "Version 0.1.0 of forge-testing",
@@ -1081,6 +1081,11 @@
                 "description": "Version 0.4.6 of forge-testing",
                 "url": "forge-testing/0.4.6",
                 "integrity": "a3df3a306df616843b8748cb8f1efaca4008e423d20042e3d35d967ffba8a9fb"
+            },
+            "0.4.7": {
+                "description": "Version 0.4.7 of forge-testing",
+                "url": "forge-testing/0.4.7",
+                "integrity": "17b5ffc8a86292768dd680246411028571586d8847c9e798174db96393c06eaf"
             }
         }
     },
