@@ -2888,5 +2888,15 @@
                 "integrity": "8f0dd5b740964ec9b973f3663ad046bed8ba0bac8a0efe90036489a45f79e5a9"
             }
         }
+    },
+    "forge-sprinkle": {
+        "latest": "0.1.0",
+        "versions": {
+            "0.1.0": {
+                "description": "Version 0.1.0 of forge-sprinkle",
+                "url": "forge-sprinkle/0.1.0",
+                "integrity": "23b05bfb1148ccc867ea133dae1d748b937f2adb1035169c81ae291fc7c27c58"
+            }
+        }
     }
 }
