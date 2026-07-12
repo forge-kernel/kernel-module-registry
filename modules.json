@@ -515,7 +515,7 @@
         }
     },
     "forge-error-handler": {
-        "latest": "1.2.9",
+        "latest": "1.2.10",
         "versions": {
             "0.1.0": {
                 "description": "Version 0.1.0 of forge-error-handler",
@@ -591,6 +591,11 @@
                 "description": "Version 1.2.9 of forge-error-handler",
                 "url": "forge-error-handler/1.2.9",
                 "integrity": "db64a8b40302c25af672e5a35969e17367a0d40dd66b043a29c5b811a599bbe7"
+            },
+            "1.2.10": {
+                "description": "Version 1.2.10 of forge-error-handler",
+                "url": "forge-error-handler/1.2.10",
+                "integrity": "459652d95c1ff7a5418ac6945b06043af0e98a6ea5f0726ee4be1d495a98fd01"
             }
         }
     },
