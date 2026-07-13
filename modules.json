@@ -2978,5 +2978,15 @@
                 "integrity": "23b05bfb1148ccc867ea133dae1d748b937f2adb1035169c81ae291fc7c27c58"
             }
         }
+    },
+    "forge-templates": {
+        "latest": "0.1.0",
+        "versions": {
+            "0.1.0": {
+                "description": "Version 0.1.0 of forge-templates",
+                "url": "forge-templates/0.1.0",
+                "integrity": "ebfaa9d4c7b57fe19f03ed0d40dfec047bee4d9e34ffd3181f5d8377e4b82429"
+            }
+        }
     }
 }
