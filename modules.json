@@ -3050,12 +3050,17 @@
         }
     },
     "forge-templates": {
-        "latest": "0.1.0",
+        "latest": "0.1.1",
         "versions": {
             "0.1.0": {
                 "description": "Version 0.1.0 of forge-templates",
                 "url": "forge-templates/0.1.0",
                 "integrity": "ebfaa9d4c7b57fe19f03ed0d40dfec047bee4d9e34ffd3181f5d8377e4b82429"
+            },
+            "0.1.1": {
+                "description": "Version 0.1.1 of forge-templates",
+                "url": "forge-templates/0.1.1",
+                "integrity": "81634876e579627d31e6488bbaf3ce5e4d67864fe32300272979c2eddfc50dba"
             }
         }
     }
