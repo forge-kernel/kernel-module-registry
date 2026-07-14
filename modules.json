@@ -2095,7 +2095,7 @@
         }
     },
     "forge-sql-orm": {
-        "latest": "0.6.11",
+        "latest": "0.6.12",
         "versions": {
             "0.1.0": {
                 "description": "Version 0.1.0 of forge-sql-orm",
@@ -2231,6 +2231,11 @@
                 "description": "Version 0.6.11 of forge-sql-orm",
                 "url": "forge-sql-orm/0.6.11",
                 "integrity": "b7e6f8a5d34169faf88e965358bbe85a919166174c8232ec9b40d9c8f5bafcb7"
+            },
+            "0.6.12": {
+                "description": "Version 0.6.12 of forge-sql-orm",
+                "url": "forge-sql-orm/0.6.12",
+                "integrity": "63ba511f94ba4a4ff1ff0ac91a0734c62c3650a1da67b6e1a3abc23ff7f9f32b"
             }
         }
     },
