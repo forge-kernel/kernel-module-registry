@@ -2575,7 +2575,7 @@
         }
     },
     "forge-saas": {
-        "latest": "0.1.9",
+        "latest": "0.1.10",
         "versions": {
             "0.1.0": {
                 "description": "Version 0.1.0 of forge-saas",
@@ -2626,6 +2626,11 @@
                 "description": "Version 0.1.9 of forge-saas",
                 "url": "forge-saas/0.1.9",
                 "integrity": "b58bca86f5b6af08b998c639b5725d9bbe7d4877a05e59b790d203c7793ce5e4"
+            },
+            "0.1.10": {
+                "description": "Version 0.1.10 of forge-saas",
+                "url": "forge-saas/0.1.10",
+                "integrity": "db8a404965c91a01aa978b7c9a1af7a80cb0c870d6689be1e9727d464e42f74f"
             }
         }
     },
