@@ -755,7 +755,7 @@
         }
     },
     "forge-hub": {
-        "latest": "2.5.13",
+        "latest": "2.5.14",
         "versions": {
             "0.1.0": {
                 "description": "Version 0.1.0 of forge-hub",
@@ -866,6 +866,11 @@
                 "description": "Version 2.5.13 of forge-hub",
                 "url": "forge-hub/2.5.13",
                 "integrity": "a8e26ea1a38b64f5e95ec70e413ca3708d6c42ec1c441736d6060376d303fd46"
+            },
+            "2.5.14": {
+                "description": "Version 2.5.14 of forge-hub",
+                "url": "forge-hub/2.5.14",
+                "integrity": "0b9f84b0b8a5be5100dbdd58145517bf90a085434387a304b5cbe18ba3a0a481"
             }
         }
     },
