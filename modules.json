@@ -1215,7 +1215,7 @@
         }
     },
     "forge-events": {
-        "latest": "1.4.14",
+        "latest": "1.4.15",
         "versions": {
             "0.1.0": {
                 "description": "Version 0.1.0 of forge-events",
@@ -1346,6 +1346,11 @@
                 "description": "Version 1.4.14 of forge-events",
                 "url": "forge-events/1.4.14",
                 "integrity": "afaa41271131f8d54b5cd9c9114df8f16eaf9948c83a49835ae014738f4264c6"
+            },
+            "1.4.15": {
+                "description": "Version 1.4.15 of forge-events",
+                "url": "forge-events/1.4.15",
+                "integrity": "490291e941196d886df99bc408e6b94cf9a1553822b4282a2329bf263887445f"
             }
         }
     },
