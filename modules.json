@@ -2655,7 +2655,7 @@
         }
     },
     "forge-language": {
-        "latest": "0.2.8",
+        "latest": "0.2.9",
         "versions": {
             "0.1.0": {
                 "description": "Version 0.1.0 of forge-language",
@@ -2706,6 +2706,11 @@
                 "description": "Version 0.2.8 of forge-language",
                 "url": "forge-language/0.2.8",
                 "integrity": "e9a0de2de48a1c9e6db3a514c423aa5f3359610015de0ed28c7a5535ab3ced30"
+            },
+            "0.2.9": {
+                "description": "Version 0.2.9 of forge-language",
+                "url": "forge-language/0.2.9",
+                "integrity": "08583910835b4d77ac76bd91118a842e3e49351c080c8dd62115fac439d1d64d"
             }
         }
     },
