@@ -3320,7 +3320,7 @@
         }
     },
     "forge-htmx": {
-        "latest": "1.0.3",
+        "latest": "1.0.4",
         "versions": {
             "1.0.0": {
                 "description": "Version 1.0.0 of forge-htmx",
@@ -3341,6 +3341,11 @@
                 "description": "Version 1.0.3 of forge-htmx",
                 "url": "forge-htmx/1.0.3",
                 "integrity": "30d67a31d826e0cc6316a3c18f390dfd2f7e10ee6612680998f58441d4e62a56"
+            },
+            "1.0.4": {
+                "description": "Version 1.0.4 of forge-htmx",
+                "url": "forge-htmx/1.0.4",
+                "integrity": "9e6dfa6b462a6e8ebc02918d9dab2e37a85ffb99e02fd97cbffc7fa1993c8a48"
             }
         }
     },
