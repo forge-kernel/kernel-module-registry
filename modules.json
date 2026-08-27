@@ -3378,5 +3378,15 @@
                 "integrity": "059a204d589f252e28d3b5a57bbae279fbb84fc0b8749adc90d4269b21b8a811"
             }
         }
+    },
+    "forge-sockets": {
+        "latest": "0.1.0",
+        "versions": {
+            "0.1.0": {
+                "description": "Version 0.1.0 of forge-sockets",
+                "url": "forge-sockets/0.1.0",
+                "integrity": "c4f46bc9aa4b77d13a6df7b5354d1e22f9012abe88cff4fc20f5328f3f466eb8"
+            }
+        }
     }
 }
